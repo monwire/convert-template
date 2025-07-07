@@ -2,7 +2,7 @@
 
 Este é um projeto simples de conversor de moedas desenvolvido em HTML, CSS e JavaScript. O objetivo principal deste módulo de estudo foi praticar os fundamentos do **JavaScript básico** e a **manipulação do DOM**.
 
-O template do projeto foi fornecido pela RocketSeat durante o curso Full-Stack e o módulo de JavaScript básico.
+O template do projeto foi fornecido pela Rocketseat durante o curso Full-Stack e o módulo de JavaScript básico.
 
 ## 📌 Funcionalidades
 
